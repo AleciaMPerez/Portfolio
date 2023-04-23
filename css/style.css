@@ -1,4 +1,26 @@
 *{background-color: rgb(251, 211, 217);}
 
+header{
+    background-color: lightgrey;
+    width: auto;
+    height: auto;
+    border: 15px solid teal;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 10px;
 
+}
 
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li a {
+    display: block;
+    width: 100px;
+    background-color: lightgrey;
+    color: maroon;
+    border: 5px solid teal
+  }
