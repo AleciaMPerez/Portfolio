@@ -16,7 +16,8 @@ My Portfolio allows people to contact me directly via phone, email, and to view 
 
 My Portfolio also allows people to get to know me via the small About Me section, and My Work section. In my About Me section, you can view pictures of my pets and hover over them to view their name. 
 
-XXXX INSERT IMAGE XXXX
+![Animal photo line](./Images/Animal-line.png)
+
 
 ## Credits
 
