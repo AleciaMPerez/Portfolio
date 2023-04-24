@@ -115,6 +115,11 @@ li a {
   display: none;
 }
 
+.photos {
+    display: flex;
+    justify-content: center;
+}
+
 #My-work {
   background-color: lightgrey;
   width: auto;
