@@ -26,6 +26,7 @@ nav {
   padding: 30px;
   border: 5px solid teal;
   background-color: lightgrey;
+  border-radius: 10px;
 }
 
 nav ul {
