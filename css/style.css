@@ -119,6 +119,7 @@ li a {
 .photos {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 
