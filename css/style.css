@@ -132,6 +132,16 @@ li a {
   border-radius: 10px;
 }
 
+.horiseon {
+    height: 10%;
+    width: 5%;
+    margin-top: 20px;
+  }
+
+  .Horiseon h2 {
+    display: none;
+  }
+
 #Contact-me {
   background-color: lightgrey;
   width: auto;
