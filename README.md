@@ -6,7 +6,11 @@ I created my Portfolio so that potential employers can review my information in 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+One may install my project by going to my GitHub repository. Select to copy the HTTPS code and clone the link in GitBash. Use "code ." to open VS. From here, one may make edits to my project. To save the edits, simply utilize the add, commit, and push commands in GitBash to commit the changes. The commands are: 
+
+1. git add -A
+2. git commit -m "text comment"
+3. git push origin main 
 
 ## Usage
 
